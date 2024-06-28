@@ -11,7 +11,7 @@ A mobile app built with React Native and TypeScript to fetch and display current
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CurrencyConverterApp.git
+    git clone https://github.com/ShamsadAlam/Currency-Converter-App.git
     ```
 2. Install dependencies:
     ```bash
